@@ -1,0 +1,10 @@
+title: IOB-Adapter-Turtle
+project: IOB-Adapter-Turtle
+image_path: IOB-Adapter-Turtle-Graphic.png
+designer: John Plocher
+author: John Plocher
+fabricated: yes
+fab_date: 2020.09
+status: released
+release: yes
+tags: [eagle, SPCoast]
