@@ -1157,7 +1157,7 @@ design rules under a new name.
 <element name="RNX52" library="SPCoast" package="0805-RES" value="82R" x="88.265" y="66.675" rot="R270"/>
 <element name="ROX52" library="SPCoast" package="0805-RES" value="82R" x="83.82" y="66.675" rot="R270"/>
 <element name="RRX52" library="SPCoast" package="0805-RES" value="82R" x="92.71" y="66.675" rot="R270"/>
-<element name="CARRIER" library="SPCoast" package="BOARD-DINRAIL-3.17IN-5X2-IOP" value="10x10" x="0" y="0"/>
+<element name="CARRIER" library="SPCoast" package="BOARD-DINRAIL-3.17IN-5X2-IOP" value="BOARD" x="0" y="0"/>
 <element name="FID-UL" library="SPCoast" package="FIDUCIAL_1MM" value="FIDUCIAL" x="5.08" y="91.44" smashed="yes">
 <attribute name="NAME" x="2.54" y="89.535" size="1.016" layer="25" rot="R90"/>
 </element>
